@@ -22,9 +22,16 @@ title: Максим Свириденко
 
 ## 🏗️ Инфраструктура: 
           
-<img width="1918" height="757" alt="Screenshot From 2026-04-15 10-46-03" src="https://github.com/user-attachments/assets/b5d081c2-b0a3-40c6-b923-3a4092c2d999" />
+## 🏗️ Инфраструктура (Домашняя лаборатория)
 
-<img width="1910" height="892" alt="Screenshot From 2026-02-27 14-14-18" src="https://github.com/user-attachments/assets/c3746232-fa67-49e4-830d-699c3efb6ba7" />
+Вся инфраструктура развернута на Proxmox и управляется через Ansible.
+
+| Скриншот | Что изображено |
+|:---|:---|
+| ![Схема сети](https://github.com/user-attachments/assets/44df202b-d2fa-4455-98c1-39cc3147f524) | **Схема сети:** Proxmox-кластер (3 ноды), резервный PBS, TrueNAS, отказоустойчивая связка роутеров |
+| ![Дашборд Proxmox](https://github.com/user-attachments/assets/c12f2b70-3cd1-4fc6-8152-2d7e02b3eb55) | **Дашборд Proxmox:** виртуальные машины, контейнеры, мониторинг ресурсов кластера |
+
+Управление конфигурациями — Ansible. Автоматизирована настройка DNS/DHCP (keepalived), развертывание Zabbix, Docker-хостов и Windows-агентов.
 
 
 ## 🚀 Ключевой кейс: отказоустойчивость розничных магазинов
