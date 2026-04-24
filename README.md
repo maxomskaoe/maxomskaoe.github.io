@@ -1,2 +1,0 @@
-# maxomskaoe.github.io
-website
