@@ -20,6 +20,13 @@ title: Максим Свириденко
 - **Языки:** Bash, PowerShell, YAML
 - **Английский:** C1 (продвинутый)
 
+## 🏗️ Инфраструктура: 
+          
+<img width="1918" height="757" alt="Screenshot From 2026-04-15 10-46-03" src="https://github.com/user-attachments/assets/b5d081c2-b0a3-40c6-b923-3a4092c2d999" />
+
+<img width="1910" height="892" alt="Screenshot From 2026-02-27 14-14-18" src="https://github.com/user-attachments/assets/c3746232-fa67-49e4-830d-699c3efb6ba7" />
+
+
 ## 🚀 Ключевой кейс: отказоустойчивость розничных магазинов
 
 ### Было ❌
