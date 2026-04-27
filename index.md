@@ -68,7 +68,7 @@ title: Максим Свириденко
  
 ## 😺 Котик
 
-<img width="714" height="1000" alt="46162" src="https://github.com/user-attachments/assets/fdb99192-400f-43b9-9663-41620f08a534" />
+<img width="400" height="600" alt="46162" src="https://github.com/user-attachments/assets/fdb99192-400f-43b9-9663-41620f08a534" />
 <a href="https://ru.freepik.com/free-photo/cute-cat-with-christmas-lights_17247423.htm#fromView=search&page=3&position=3&uuid=640d6057-e3ff-49cd-a5fa-8d83353a5561&query=%D0%9A%D0%BE%D1%82%D1%8B">Изображение от wirestock на Freepik</a>
 
 
