@@ -1,4 +1,4 @@
-=====================================================================
+=============================================
                         Максим Свириденко
           Infrastructure Engineer | Linux Systems Administrator
 =====================================================================
@@ -114,5 +114,7 @@ Ansible Lab
 ========
 
   Email:    maks_omck@mail.ru
+  
   GitHub:   github.com/maxomskaoe
+  
   Telegram: @maxomskaoe
